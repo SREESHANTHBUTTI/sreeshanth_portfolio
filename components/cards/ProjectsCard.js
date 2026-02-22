@@ -31,7 +31,7 @@ export default function ProjectsCard() {
           <div className="flex items-center justify-between mb-8">
             <h2 className="section-title m-0">Projects</h2>
             <a
-              href="https://github.com/sreeshanthbutti3"
+              href="https://github.com/SREESHANTHBUTTI"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-solid flex items-center gap-2 hover:shadow-lg hover:shadow-sanguine-700/50 transition-all"

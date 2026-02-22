@@ -163,7 +163,7 @@ Email: sreeshanthbutti3@gmail.com
 Phone: +91 9110735760
 Email (College): 22bds016@iittdwd.ac.in
 LinkedIn: https://www.linkedin.com/in/sreeshanth-b-26a8a9295
-GitHub: https://github.com/sreeshanthbutti3
+GitHub: https://github.com/SREESHANTHBUTTI
 ```
 
 Update these in the components if needed!

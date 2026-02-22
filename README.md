@@ -30,7 +30,7 @@ A professional portfolio website built with **Next.js**, **React**, and **Tailwi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sreeshanthbutti3/sreeshanth-portfolio.git
+   git clone https://github.com/SREESHANTHBUTTI/sreeshanth_portfolio.git
    cd sreeshanth-portfolio
    ```
 
@@ -139,7 +139,7 @@ Replace placeholder images by:
 
 - **Email**: sreeshanthbutti3@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sreeshanth-b-26a8a9295
-- **GitHub**: https://github.com/sreeshanthbutti3
+- **GitHub**: https://github.com/SREESHANTHBUTTI
 
 ## 📄 License
 
