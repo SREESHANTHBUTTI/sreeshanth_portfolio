@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { Mail, Linkedin } from 'lucide-react'
 
 export default function HeroCard() {
@@ -44,16 +45,17 @@ export default function HeroCard() {
             </div>
           </div>
 
-          {/* Right - Image Placeholder */}
+          {/* Right - Portrait Image */}
           <div className="flex items-center justify-center">
-            <div className="w-full aspect-square bg-gradient-to-br from-sanguine-700 to-black rounded-lg flex items-center justify-center relative overflow-hidden">
-              {/* Decorative Elements */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-80"></div>
-              <div className="absolute top-0 right-0 w-40 h-40 bg-sanguine-700 rounded-full blur-3xl opacity-20"></div>
-              <div className="relative z-10 text-center">
-                <div className="text-6xl mb-4">📸</div>
-                <p className="text-gray-400 text-sm">Portrait • Central Learning Building</p>
-              </div>
+            <div className="w-full aspect-square relative overflow-hidden rounded-lg shadow-2xl">
+              <Image
+                src="/hero-portrait.jpg"
+                alt="Sreeshanth Butti - Central Learning Building"
+                fill
+                className="object-cover"
+                priority
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent"></div>
             </div>
           </div>
         </div>
